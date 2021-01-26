@@ -4,6 +4,10 @@
     background-color: rgb(145, 0, 40);
 }
 
+.bg-salmon {
+    background-color: rgb(190, 114, 111);
+}
+
 .bg-green {
     background-color: rgb(0, 105, 64);
 }
@@ -14,6 +18,24 @@
     color: rgb(145, 0, 40);
 }
 
+.text-salmon {
+    color: rgb(190, 114, 111);
+}
+
 .text-green {
     color: rgb(0, 105, 64);
+}
+
+/* Custom Border Colors */
+
+.border-grena {
+    border-color: rgb(145, 0, 40);
+}
+
+.border-salmon {
+    border-color: rgb(190, 114, 111);
+}
+
+.border-green {
+    border-color: rgb(0, 105, 64);
 }
